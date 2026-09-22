@@ -5,22 +5,22 @@
 ### 💻 Full Stack Developer · Data Analytics Enthusiast · Software Builder
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving;Always+curious%2C+always+building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving;Always+curious%2C+always+building+%F0%9F%9A%80" />
 </p>
 
 <p>
   <a href="https://personal-website-kohl-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0B0F19?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=8A5CFF" />
   </a>
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontColor=ffffff&fontSize=27&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3A,100:6C3BFF&height=170&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontColor=FFFFFF&fontSize=27&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -48,17 +48,115 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-00D9FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-6C3BFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-00B8A9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20%26%20ML-8A5CFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-0078FF?style=for-the-badge&logoColor=white" />
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🛡️ **NIDPS** | Network Intrusion Detection & Prevention System | Python · Flask · ML |
-| 📊 **Student Placement Analytics** | Placement & employability analysis | Python · ML · Power BI |
-| 📝 **Notemate** | PDF management & document application | MERN · Cloudinary |
-| 💰 **Utility Billing System** | Web-based utility billing management | React · Flask · MySQL |
-| 🏠 **Laptop Rental System** | Rental management application | PHP · MySQL |
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛡️ NIDPS
+
+**Network Intrusion Detection & Prevention System**
+
+A security-focused application designed to identify suspicious network activity.
+
+**Stack**
+
+`Python` `Flask` `Machine Learning`
+
+</td>
+
+<td width="50%">
+
+### 📊 Student Placement Analytics
+
+**Placement & Employability Analysis**
+
+A data analytics and machine learning project focused on student placement insights.
+
+**Stack**
+
+`Python` `Pandas` `Scikit-learn` `Power BI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📝 Notemate
+
+**PDF Management Application**
+
+A document management application for storing and managing PDF files with cloud integration.
+
+**Stack**
+
+`MERN` `Cloudinary`
+
+</td>
+
+<td width="50%">
+
+### 💰 Utility Billing System
+
+**Utility Management Platform**
+
+A web application for managing customers, billing information and utility records.
+
+**Stack**
+
+`React` `Flask` `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏠 Laptop Rental System
+
+**Rental Management Application**
+
+A web-based system for managing laptop rental records and customers.
+
+**Stack**
+
+`PHP` `MySQL`
+
+</td>
+
+<td width="50%">
+
+### 🌐 More Projects
+
+Explore my repositories to see more of my work across web development, analytics and software projects.
+
+**Explore →** My GitHub repositories
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -66,13 +164,33 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 <div align="center">
 
-🌐 **Web Applications** &nbsp;&nbsp; • &nbsp;&nbsp;
-📊 **Data Dashboards** &nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 **ML Applications**
+### 🌐 Web Applications
+Modern, responsive and user-focused applications
 
-🔐 **Security Solutions** &nbsp;&nbsp; • &nbsp;&nbsp;
-⚙️ **Business Systems** &nbsp;&nbsp; • &nbsp;&nbsp;
-☁️ **Cloud Applications**
+<br>
+
+### 📊 Data Dashboards
+Turning raw data into meaningful insights
+
+<br>
+
+### 🤖 Machine Learning
+Exploring intelligent and data-driven solutions
+
+<br>
+
+### 🔐 Security Solutions
+Building applications with security in mind
+
+<br>
+
+### ⚙️ Business Systems
+Practical software for real-world workflows
+
+<br>
+
+### ☁️ Cloud Applications
+Learning and working with modern deployment technologies
 
 </div>
 
@@ -82,40 +200,59 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 <div align="center">
 
-`React` · `Node.js` · `Python` · `Data Analytics` · `Machine Learning` · `Cloud`
+<img src="https://img.shields.io/badge/React-00D9FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-00B8A9?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analytics-6C3BFF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-8A5CFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-0078FF?style=for-the-badge&logo=icloud&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmolRathod18&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmolRathod18&theme=transparent&hide_border=true&ring=00D9FF&fire=8A5CFF&currStreakLabel=00D9FF&sideLabels=8A5CFF&dates=777777" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 My Development Philosophy
 
 <div align="center">
 
-`React` · `Node.js` · `Python` · `Data Analytics` · `Machine Learning` · `Cloud`
+### **LEARN → BUILD → IMPROVE → DEPLOY**
+
+<br>
+
+💡 Learn something new  
+&nbsp;&nbsp; ↓  
+🛠️ Build something useful  
+&nbsp;&nbsp; ↓  
+🔧 Improve it  
+&nbsp;&nbsp; ↓  
+🚀 Put it into practice
 
 </div>
+
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://personal-website-kohl-tau.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=000000" />
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-8A5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -124,8 +261,10 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,50:111B3A,100:050816&height=100&section=footer" width="100%"/>
+
 ### 🚀 Learn. Build. Improve.
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
 </div>
