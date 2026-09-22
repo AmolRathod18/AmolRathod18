@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Amol Rathod**
+# 👋 Hey, I'm Amol Rathod
 
 ### 💻 Full Stack Developer · Data Analytics Enthusiast · Software Builder
 
@@ -10,17 +10,17 @@
 
 <p>
   <a href="https://personal-website-kohl-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-    <img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontColor=ffffff&fontSize=25&fontAlignY=65" width="100%"/>
+**Turning ideas into practical digital solutions. 🚀**
 
 </div>
 
