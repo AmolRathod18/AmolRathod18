@@ -1,15 +1,21 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="65%" align="center">
-
 # 👋 Hey, I'm **Amol Rathod**
 
 ### 💻 Full Stack Developer · Data Analytics Enthusiast · Software Builder
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving;Always+curious%2C+always+building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving;Always+curious%2C+always+building+%F0%9F%9A%80" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/💻_CODE-00D9FF?style=for-the-badge&logoColor=000000" />
+  <img src="https://img.shields.io/badge/⚡_BUILD-6C3BFF?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/🚀_DEPLOY-8A5CFF?style=for-the-badge&logoColor=FFFFFF" />
 </p>
 
 <p>
@@ -21,16 +27,6 @@
     <img src="https://img.shields.io/badge/💼_LINKEDIN-0B0F19?style=for-the-badge&logo=linkedin&logoColor=8A5CFF" />
   </a>
 </p>
-
-</td>
-
-<td width="35%" align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/AmolRathod18/AmolRathod18/main/Amol_img3.jpeg" width="230" style="border-radius:50%;" /> -->
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -179,31 +175,37 @@ Explore my repositories to see more of my work across web development, analytics
 <div align="center">
 
 ### 🌐 Web Applications
+
 Modern, responsive and user-focused applications
 
 <br>
 
 ### 📊 Data Dashboards
+
 Turning raw data into meaningful insights
 
 <br>
 
 ### 🤖 Machine Learning
+
 Exploring intelligent and data-driven solutions
 
 <br>
 
 ### 🔐 Security Solutions
+
 Building applications with security in mind
 
 <br>
 
 ### ⚙️ Business Systems
+
 Practical software for real-world workflows
 
 <br>
 
 ### ☁️ Cloud Applications
+
 Learning and working with modern deployment technologies
 
 </div>
