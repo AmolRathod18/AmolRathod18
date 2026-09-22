@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Amol Rathod
+# 👋 Hey, I'm **Amol Rathod**
 
 ### 💻 Full Stack Developer · Data Analytics Enthusiast · Software Builder
 
@@ -20,7 +20,9 @@
 
 <br>
 
-**Turning ideas into practical digital solutions. 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontColor=ffffff&fontSize=27&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br>
 
 </div>
 
