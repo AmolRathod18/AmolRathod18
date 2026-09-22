@@ -1,209 +1,116 @@
-
-````html
 <div align="center">
 
-# 👋 Hi, I'm Amol Rathod
+# 👋 Hey, I'm Amol Rathod
 
-### 💻 Full Stack Developer • Software Engineer • Data Analytics Enthusiast
+### Full Stack Developer · Data Analytics · Problem Solver
 
 <p>
   <a href="https://personal-website-kohl-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BUILD%20%7C%20LEARN%20%7C%20CREATE&fontColor=ffffff&fontSize=28&fontAlignY=65" width="100%"/>
 
----
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** interested in building practical,
-scalable and user-focused applications.
+I'm a developer who enjoys turning ideas into practical digital solutions.
 
-I enjoy working across **frontend development, backend systems,
-databases, data analytics and machine learning**.
+- 💻 Full Stack Web Development
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning
+- 🔐 Cybersecurity
+- ⚙️ Business & Management Systems
 
-```text
-💻 Build       →   Web Applications & APIs
-📊 Analyze     →   Data & Business Insights
-🤖 Explore     →   Machine Learning
-🚀 Deploy      →   Real-world Solutions
-````
+I enjoy learning new technologies, building real-world projects, and continuously improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Data & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🛡️ Network Intrusion Detection System
-
-A machine-learning based security system designed to detect and prevent suspicious network activity.
-
-**Tech:** Python • Flask • Machine Learning
-
-</td>
-
-<td width="50%">
-
-### 📊 Student Placement Analytics
-
-Data analytics and machine learning project for understanding student employability and placement patterns.
-
-**Tech:** Python • Pandas • Scikit-learn • Power BI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📝 Notemate
-
-A document management application for storing and managing PDF files with cloud integration.
-
-**Tech:** MERN • Cloudinary
-
-</td>
-
-<td width="50%">
-
-### 💰 Utility Billing System
-
-A web-based billing system designed to manage utility customers, billing information and records.
-
-**Tech:** React • Flask • MySQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💡 What I Like Building
-
-```text
-🌐 Full Stack Web Applications
-📊 Data Analytics Dashboards
-🤖 Machine Learning Applications
-🔐 Cybersecurity Solutions
-⚙️ Business Management Systems
-☁️ Cloud-based Applications
-```
-
----
-
-# 📚 Currently Exploring
-
-* ⚛️ Advanced React & Modern Frontend Development
-* 🐍 Python & Data Analytics
-* 🤖 Machine Learning
-* ☁️ Cloud & Deployment
-* 🗄️ Database Design & Optimization
-* 🔧 Software Architecture
-
----
-
-# 📈 GitHub Activity
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmolRathod18&show_icons=true&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolRathod18&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,php,mysql,mongodb,git,github,docker,aws" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🛡️ **NIDPS** | Network Intrusion Detection & Prevention System | Python · Flask · ML |
+| 📊 **Student Placement Analytics** | Placement & employability analysis | Python · ML · Power BI |
+| 📝 **Notemate** | PDF management & document application | MERN · Cloudinary |
+| 💰 **Utility Billing System** | Web-based utility billing management | React · Flask · MySQL |
+| 🏠 **Laptop Rental System** | Rental management application | PHP · MySQL |
+
+---
+
+## 💡 What I Build
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+🌐 **Web Applications** &nbsp;&nbsp; • &nbsp;&nbsp;
+📊 **Data Dashboards** &nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 **ML Applications**
+
+🔐 **Security Solutions** &nbsp;&nbsp; • &nbsp;&nbsp;
+⚙️ **Business Systems** &nbsp;&nbsp; • &nbsp;&nbsp;
+☁️ **Cloud Applications**
 
 </div>
 
 ---
 
-# 🎯 My Approach
+## 📚 Currently Learning
 
-> **Learn → Build → Improve → Deploy**
+<div align="center">
 
-I believe the best way to learn technology is by building
-real-world projects and continuously improving them.
+`React` · `Node.js` · `Python` · `Data Analytics` · `Machine Learning` · `Cloud`
+
+</div>
 
 ---
 
-# 🌐 Let's Connect
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmolRathod18&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolRathod18&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://personal-website-kohl-tau.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🚀 Learn. Build. Improve.
 
-**Let's build something useful. 🚀**
+⭐ Thanks for visiting my profile!
 
 </div>
-```
-
-**Copy the entire block → replace everything in your current `README.md` → Commit changes.**
