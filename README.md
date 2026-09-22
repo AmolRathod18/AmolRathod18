@@ -1,19 +1,26 @@
 <div align="center">
 
-# 👋 Hey, I'm Amol Rathod
+# 👋 Hey, I'm **Amol Rathod**
 
-### Full Stack Developer · Data Analytics · Problem Solver
+### 💻 Full Stack Developer · Data Analytics Enthusiast · Software Builder
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving;Always+curious%2C+always+building+%F0%9F%9A%80" />
+</p>
 
 <p>
   <a href="https://personal-website-kohl-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/amol-rathod-b84746281/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BUILD%20%7C%20LEARN%20%7C%20CREATE&fontColor=ffffff&fontSize=28&fontAlignY=65" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontColor=ffffff&fontSize=25&fontAlignY=65" width="100%"/>
 
 </div>
 
