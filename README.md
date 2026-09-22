@@ -26,7 +26,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/AmolRathod18/AmolRathod18/main/Amol_img2.jpeg" width="230" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/AmolRathod18/AmolRathod18/main/Amol_img3.jpeg" width="230" style="border-radius:50%;" />
 
 </td>
 </tr>
