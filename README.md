@@ -92,13 +92,19 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmolRathod18&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolRathod18&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmolRathod18&theme=default&hide_border=true" />
 
 </div>
 
 ---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+`React` · `Node.js` · `Python` · `Data Analytics` · `Machine Learning` · `Cloud`
+
+</div>
 
 ## 🌐 Let's Connect
 
